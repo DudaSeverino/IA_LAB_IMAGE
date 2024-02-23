@@ -2,7 +2,7 @@
 Laboratório DIO, para leitura de imagem com o AZURE
 
 
-#Tutorial
+#Tutorial#
 
 ##Criar um recurso de serviços de IA do Azure
 Você pode usar os recursos de análise de imagem do Azure AI Vision com um recurso multisserviço dos serviços de IA do Azure. Se você ainda não tiver feito isso, crie um recurso de serviços de IA do Azure em sua assinatura do Azure.
