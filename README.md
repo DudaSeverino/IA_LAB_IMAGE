@@ -2,9 +2,9 @@
 Laboratório DIO, para leitura de imagem com o AZURE
 
 
-#Tutorial#
+Tutorial
 
-##Criar um recurso de serviços de IA do Azure
+Criar um recurso de serviços de IA do Azure
 Você pode usar os recursos de análise de imagem do Azure AI Vision com um recurso multisserviço dos serviços de IA do Azure. Se você ainda não tiver feito isso, crie um recurso de serviços de IA do Azure em sua assinatura do Azure.
 
 Em outra guia do navegador, abra o portal do Azure em https://portal.azure.com, entrando com a conta da Microsoft associada à sua assinatura do Azure.
@@ -110,3 +110,8 @@ Se você não pretende fazer mais exercícios, exclua todos os recursos que não
 
 Abra o portal do Azure e selecione o grupo de recursos que contém o recurso que você criou.
 Selecione o recurso e selecione Excluir e, em seguida, Sim para confirmar. O recurso é excluído
+
+
+
+![image](https://github.com/DudaSeverino/IA_LAB_IMAGE/assets/125839474/598ff1aa-9462-4577-b2a3-7ef99b452a99)
+
